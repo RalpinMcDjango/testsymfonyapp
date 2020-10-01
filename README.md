@@ -5,9 +5,6 @@ Bolt CMS is an open source, adaptable platform for building and running modern
 websites. Built on PHP, Symfony and more. [Read the site](https://boltcms.io) 
 for more info. 
 
-**To check out Bolt and set up your first Bolt installation, read 
-[Installing Bolt 4][installation].** 
-
 ---
 
 You can set up a new Bolt 4 project, using the following command, replacing
